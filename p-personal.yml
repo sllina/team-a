@@ -1,0 +1,9 @@
+server:
+  context-path: /personal
+  port: 8087
+spring:
+  data:
+    mongodb:
+      host: 120.24.54.47
+      database: yimym
+      port: 27017
